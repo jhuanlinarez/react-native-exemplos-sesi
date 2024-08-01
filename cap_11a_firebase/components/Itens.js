@@ -1,6 +1,7 @@
 import React from 'react';
 export default () => {
 <></>
+<<<<<<< HEAD
 }
 
 // import React from 'react';
@@ -39,3 +40,6 @@ export default () => {
 //         textAlign: 'center'
 //         }
 //         });
+=======
+}
+>>>>>>> d49465fd71be9fd7e82ccb27caee726e73227030

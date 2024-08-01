@@ -2,6 +2,10 @@
 
 # dependencies
 node_modules/
+<<<<<<< HEAD
+=======
+config/
+>>>>>>> d49465fd71be9fd7e82ccb27caee726e73227030
 
 # Expo
 .expo/
